@@ -1,0 +1,2 @@
+src/pages/AccessLogsPage.tsx(3,10): error TS2305: Module '"../types"' has no exported member 'AccessLog'.
+src/pages/DevicesPage.tsx(3,10): error TS2305: Module '"../types"' has no exported member 'DeviceStatus'.
